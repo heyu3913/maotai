@@ -1,5 +1,5 @@
 ## i茅台免费预约网站
-http://hangyejingling:10081
+http://hangyejingling.cn:10081
 账号:test
 密码:123456
 ![img.png](img.png)
