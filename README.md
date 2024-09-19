@@ -2,6 +2,12 @@
 http://hangyejingling.cn:10081
 账号:test
 密码:123456
+
+账号:test1
+密码:123456
+
+账号:test2
+密码:123456
 ![img.png](img.png)
 
 ## 基于https://github.com/oddfar/campus-imaotai搭建的。一个人用太浪费，大家一起用吧
