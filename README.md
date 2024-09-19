@@ -27,6 +27,9 @@ p.s 添加的账号需要预先在imaotai App实名认证过
 #### 1、门店ID怎么填？
 A：门店ID从门店列表页获取 找到你对应的城市的商店，把商店ID填进去
 
+#### 2.配置好之后可以用多久？
+A：配置好之后只要token不变，就会一直自动帮你预约。当前来看token一般都是一个月刷新一次，所以你每隔一个月点击一次刷新token就行了。
+
 ## 基于https://github.com/oddfar/campus-imaotai搭建的。一个人用太浪费，大家一起用吧
 ## 效果图：![21.png](21.png)![img_5.png](img_5.png)![img_6.png](img_6.png)![img_7.png](img_7.png)
 ## 需要独享账号的联系方式：![4.jpg](4.jpg)
